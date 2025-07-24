@@ -9,12 +9,19 @@ Aplikasi mobile ini merupakan sistem manajemen data klinik hewan berbasis Flutte
 ## 📱 Fitur Utama Aplikasi
 
 🔐 **Login User** – Autentikasi untuk admin (User terdaftar)
+
 👩‍⚕️ **Manajemen Dokter** – Tambah, ubah, dan hapus data dokter (NIP, nama)
+
 🐶 **Manajemen Hewan** – Kelola data hewan: nama, jenis, dan pemilik
+
 🏥 **Riwayat Kesehatan** – Catat gejala, diagnosis, tindakan, dan catatan kesehatan
+
 💊 **Data Obat** – Tambahkan obat lengkap dengan deskripsi dan harga
+
 📈 **Perkembangan Hewan** – Pantau berat badan, tinggi, dan foto hewan dari waktu ke waktu
+
 📂 **Database Relasional** – Semua data tersimpan terhubung di database MySQL (via API Laravel atau local emulator)
+
 🎨 **UI Responsif & Modern** – Menggunakan Flutter + Material Design
 
 ---
